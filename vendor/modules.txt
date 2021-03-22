@@ -1,0 +1,9 @@
+# github.com/google/uuid v1.2.0
+## explicit
+github.com/google/uuid
+# github.com/julienschmidt/httprouter v1.3.0
+## explicit
+github.com/julienschmidt/httprouter
+# github.com/mattn/go-sqlite3 v1.14.6
+## explicit
+github.com/mattn/go-sqlite3
